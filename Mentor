@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset='utf-8' />
+  <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
+
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+  <title>CoderDojo Heidelberg</title>
+</head>
+
+<body>
+
+
+<h2>Mentor werden</h2>
+                <p>
+                    Du hast Spaß am Programmieren und würdest gerne anderen dabei helfen Programmieren zu lernen? Dann bist du bei uns genau richtig!
+                    <br>
+                    Wir sind immer auf der Suche nach ehrenamtlichen Mentoren, die uns dabei helfen das Dojo zu
+                    gestalten.
+                </p>
+                <h2>Was muss ich als Mentor können?</h2>
+                <p>
+                    Du solltest gut mit Kindern umgehen können und kannst programmieren oder bist einfach nur von
+                    Technik begeistert. Die meisten unserer
+                    Teilnehmer sind Anfänger und es reicht vollkommen aus die Grundlagen zu beherrschen, um den
+                    Teilnehmern einen Schritt voraus zu sein :)
+                    Die haupsächlich im CoderDojo verwendeten Sprachen sind Python und Scratch. Beide sind sehr einfach
+                    zu lernen und deshalb besonders gut zum Einstieg geeignet.
+                    <br>
+                    Du solltest außerdem nicht zu ungeduldig sein, da besonders am Anfgang nicht alles auf Anhieb klappt
+                    und man manches auch zweimal erklären muss.
+                </p>
+                <p>
+                    Interesse? Schreibe uns einfach eine <a href="mailto:coderdojo@notarbartolo.de">Mail an</a>.
+                </p>
+</body>
+</html>
