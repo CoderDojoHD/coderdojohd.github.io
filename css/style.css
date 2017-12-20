@@ -45,17 +45,20 @@ p.ment	{ font: 14px 'Verdana', Tahoma, Verdana; font-weight: bold; background-co
 .navi_li_3 a:link, .navi_li_3 a:active, .navi_li_3 a:visited { border: 1px solid #003300; }
 .navi_li a:hover, .navi_li_2 a:hover, .navi_li_3 a:hover { background: #8f3500; border: 1px solid #fff; }
 
-/* Textdekoration */
+/* Dekoration */
+img.rund { border-radius: 100%; width: 150px; }
 
 
 /* Tabellen mit DIV */
-  div.table {display: table; width: calc(100%); border: none; padding: 10px;   }
+  div.table {display: table; width: calc(100%); border: none;   }
   div.tr { display:table-row;   }
-  div.spalte { display: table-cell; border: none; width: 600px; padding: 5px;  background: #FBF8EF; }
-  div.spalte1 { display: table-cell; border: none; width: 600px; padding: 5px;  background: #F5DA81;  }
-  div.mentText { border: none; margin-left: 200px;  }	
+  div.spalte { display:  table-cell; border: none; width: 50%; padding: 5px;  background: #FBF8EF; }
+  div.spalte1 { display: table-cell; border: none; width: 50%; padding: 5px;  background: #F5DA81;  }
+  div.mentBild { display: inline-block; vertical-align: top; padding: 10px; }
+  div.mentText { display: inline-block; vertical-align: top; border: none; margin-left: 10px; padding: 2px; width: 440px;  }
+  div.rund { display: inline-block; width: 150px; height: 150px; color: white; }
 
-
+#rund { border-radius: 75px; border: 1px solid red; width: 150px height: 150px;  background-repeat: no-repeat; background-position: center center; }
 
 /* Fuﬂzeile */
 #footer { font: 12px/40px 'Trebuchet MS', Tahoma, Arial; color: #fff; font-style: italic; text-align: center; letter-spacing: 3px; word-spacing: 7px; border-top: 10px solid #fff; border-bottom: 10px solid #fff; background: #e98f0f; }
