@@ -16,7 +16,8 @@ p.ment	{ font: 14px 'Verdana', Tahoma, Verdana; font-weight: bold; background-co
 
 /* Logo Banner */
 #logo { width: 100%px; font: bold 36px 'Verdana' Verdana; color: #000; font-style: italic; letter-spacing: 2px; word-spacing: 7px; margin: 30px auto; }
-#logo_in { background: #fff; border: 1px solid #8f3500; text-align: left; }
+#logo_in { display: inline-block; background: #fff; border: 1px solid #8f3500; text-align: left; width:100%;}
+#text_in { display: inline-block; position:absolute; margin-left: 600px; margin-top:40px; height: 280px; }
 
 
 /* horizontales Navigationsmenü */
@@ -54,7 +55,7 @@ img.rund { border-radius: 100%; width: 150px; }
   div.tr { display:table-row;   }
   div.spalte { display:  table-cell; border: none; width: 50%; padding: 5px;  background: #FBF8EF; }
   div.spalte1 { display: table-cell; border: none; width: 50%; padding: 5px;  background: #F5DA81;  }
-  div.mentBild { display: inline-block; vertical-align: top; padding: 10px; }
+  div.mentBild { display: inline-block; vertical-align: top; border: none; padding: 10px; width: 160px; }
   div.mentText { display: inline-block; vertical-align: top; border: none; margin-left: 10px; padding: 2px; width: 440px;  }
   div.rund { display: inline-block; width: 150px; height: 150px; color: white; }
 
