@@ -16,8 +16,9 @@ p.ment	{ font: 14px 'Verdana', Tahoma, Verdana; font-weight: bold; background-co
 
 /* Logo Banner */
 #logo { width: 100%px; font: bold 36px 'Verdana' Verdana; color: #000; font-style: italic; letter-spacing: 2px; word-spacing: 7px; margin: 30px auto; }
-#logo_in { display: inline-block; background: #fff; border: 1px solid #8f3500; text-align: left; width:100%;}
-#text_in { display: inline-block; position:absolute; margin-left: 600px; margin-top:25px; height: 280px; }
+#logo_in 	{ display: inline-block; z-index: 0; background: #fff; border: 1px solid #8f3500; text-align: left; width:100%;}
+div.text_in 	{ display: inline-block; position: absolute; z-index: 1; left: 580; top: 50; width: 360; height: 280; border: none; }
+div.social 	{ display: inline-block; margin-left: 600px; margin-top:25px; height: 280px; }
 
 
 /* horizontales Navigationsmenü */
